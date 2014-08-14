@@ -1,0 +1,4 @@
+YInherit
+========
+
+JavaScript Inheritance
